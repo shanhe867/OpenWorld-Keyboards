@@ -1,0 +1,40 @@
+{
+  "id": "zh-cn-9grid",
+  "name": "中文 · 九宫格",
+  "language": "zh",
+  "languageName": "简体中文",
+  "version": "1.0.0",
+  "author": "OpenWorld",
+  "layoutType": "nineGrid",
+  "inputMode": "t9Pinyin",
+  "rows": [
+    {
+      "keys": [
+        { "type": "character", "primary": "1", "t9": "" },
+        { "type": "character", "primary": "2", "t9": "abc" },
+        { "type": "character", "primary": "3", "t9": "def" },
+        { "type": "character", "primary": "4", "t9": "ghi" },
+        { "type": "character", "primary": "5", "t9": "jkl" },
+        { "type": "character", "primary": "6", "t9": "mno" },
+        { "type": "character", "primary": "7", "t9": "pqrs" },
+        { "type": "character", "primary": "8", "t9": "tuv" },
+        { "type": "character", "primary": "9", "t9": "wxyz" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "character", "primary": "+", "t9": "" },
+        { "type": "character", "primary": "0", "t9": "" },
+        { "type": "backspace", "primary": "delete" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "numbers", "primary": "123" },
+        { "type": "nextKeyboard", "primary": "globe" },
+        { "type": "space", "primary": " " },
+        { "type": "return", "primary": "return" }
+      ]
+    }
+  ]
+}

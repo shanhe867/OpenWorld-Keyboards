@@ -1,0 +1,57 @@
+{
+  "id": "ko-dubeolsik",
+  "name": "한국어 · 두벌식",
+  "language": "ko",
+  "languageName": "한국어",
+  "version": "1.0.0",
+  "author": "OpenWorld",
+  "layoutType": "qwerty",
+  "inputMode": "hangul",
+  "rows": [
+    {
+      "keys": [
+        { "type": "character", "primary": "ㅂ", "shift": "ㅃ" },
+        { "type": "character", "primary": "ㅈ", "shift": "ㅉ" },
+        { "type": "character", "primary": "ㄷ", "shift": "ㄸ" },
+        { "type": "character", "primary": "ㄱ", "shift": "ㄲ" },
+        { "type": "character", "primary": "ㅅ", "shift": "ㅆ" },
+        { "type": "character", "primary": "ㅛ", "shift": "ㅛ" },
+        { "type": "character", "primary": "ㅕ", "shift": "ㅕ" },
+        { "type": "character", "primary": "ㅑ", "shift": "ㅑ" },
+        { "type": "character", "primary": "ㅐ", "shift": "ㅒ" },
+        { "type": "character", "primary": "ㅔ", "shift": "ㅖ" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "character", "primary": "ㅁ", "shift": "ㅁ" },
+        { "type": "character", "primary": "ㄴ", "shift": "ㄴ" },
+        { "type": "character", "primary": "ㅇ", "shift": "ㅇ" },
+        { "type": "character", "primary": "ㄹ", "shift": "ㄹ" },
+        { "type": "character", "primary": "ㅎ", "shift": "ㅎ" },
+        { "type": "character", "primary": "ㅗ", "shift": "ㅗ" },
+        { "type": "character", "primary": "ㅓ", "shift": "ㅓ" },
+        { "type": "character", "primary": "ㅏ", "shift": "ㅏ" },
+        { "type": "character", "primary": "ㅣ", "shift": "ㅣ" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "shift", "primary": "shift" },
+        { "type": "character", "primary": "ㅋ", "shift": "ㅋ" },
+        { "type": "character", "primary": "ㅌ", "shift": "ㅌ" },
+        { "type": "character", "primary": "ㅊ", "shift": "ㅊ" },
+        { "type": "character", "primary": "ㅍ", "shift": "ㅍ" },
+        { "type": "character", "primary": "ㅠ", "shift": "ㅠ" },
+        { "type": "character", "primary": "ㅜ", "shift": "ㅜ" },
+        { "type": "character", "primary": "ㅡ", "shift": "ㅡ" },
+        { "type": "backspace", "primary": "delete" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "space", "primary": " " }
+      ]
+    }
+  ]
+}

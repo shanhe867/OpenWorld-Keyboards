@@ -1,0 +1,60 @@
+{
+  "id": "ar-standard",
+  "name": "العربية · قياسي",
+  "language": "ar",
+  "languageName": "العربية",
+  "version": "1.0.0",
+  "author": "OpenWorld",
+  "layoutType": "custom",
+  "inputMode": "direct",
+  "rows": [
+    {
+      "keys": [
+        { "type": "character", "primary": "ض", "shift": "َ" },
+        { "type": "character", "primary": "ص", "shift": "ً" },
+        { "type": "character", "primary": "ث", "shift": "ُ" },
+        { "type": "character", "primary": "ق", "shift": "ٌ" },
+        { "type": "character", "primary": "ف", "shift": "ِ" },
+        { "type": "character", "primary": "غ", "shift": "ٍ" },
+        { "type": "character", "primary": "ع", "shift": "ّ" },
+        { "type": "character", "primary": "ه", "shift": "ْ" },
+        { "type": "character", "primary": "خ", "shift": "َ" },
+        { "type": "character", "primary": "ح", "shift": "{" },
+        { "type": "character", "primary": "ج", "shift": "}" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "character", "primary": "ش", "shift": "ِ" },
+        { "type": "character", "primary": "س", "shift": "ٍ" },
+        { "type": "character", "primary": "ي", "shift": "]" },
+        { "type": "character", "primary": "ب", "shift": "[" },
+        { "type": "character", "primary": "ل", "shift": "لأ" },
+        { "type": "character", "primary": "ا", "shift": "لآ" },
+        { "type": "character", "primary": "ت", "shift": "ة" },
+        { "type": "character", "primary": "ن", "shift": "ى" },
+        { "type": "character", "primary": "م", "shift": "آ" },
+        { "type": "character", "primary": "ك", "shift": "،" },
+        { "type": "character", "primary": "ة", "shift": "؛" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "shift", "primary": "shift" },
+        { "type": "character", "primary": "ئ", "shift": "ء" },
+        { "type": "character", "primary": "ء", "shift": "أ" },
+        { "type": "character", "primary": "ؤ", "shift": "إ" },
+        { "type": "character", "primary": "ر", "shift": "ٌ" },
+        { "type": "character", "primary": "لا", "shift": "لإ" },
+        { "type": "character", "primary": "ى", "shift": "آ" },
+        { "type": "character", "primary": "و", "shift": "," },
+        { "type": "backspace", "primary": "delete" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "space", "primary": " " }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ja-kana",
+  "name": "日本語 · かな入力",
+  "language": "ja",
+  "languageName": "日本語",
+  "version": "1.0.0",
+  "author": "OpenWorld",
+  "layoutType": "flick",
+  "inputMode": "kana",
+  "rows": [
+    {
+      "keys": [
+        { "type": "character", "primary": "あ", "flickUp": "ぁ", "flickLeft": "い", "flickDown": "う", "flickRight": "え", "flickUpLeft": "ぃ", "flickUpRight": "ぇ" },
+        { "type": "character", "primary": "か", "flickUp": "が", "flickLeft": "き", "flickDown": "く", "flickRight": "け", "flickUpLeft": "ぎ", "flickUpRight": "げ" },
+        { "type": "character", "primary": "さ", "flickUp": "ざ", "flickLeft": "し", "flickDown": "す", "flickRight": "せ", "flickUpLeft": "じ", "flickUpRight": "ぜ" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "character", "primary": "た", "flickUp": "だ", "flickLeft": "ち", "flickDown": "つ", "flickRight": "て", "flickUpLeft": "ぢ", "flickUpRight": "で" },
+        { "type": "character", "primary": "な", "flickLeft": "に", "flickDown": "ぬ", "flickRight": "ね" },
+        { "type": "character", "primary": "は", "flickUp": "ば", "flickLeft": "ひ", "flickDown": "ふ", "flickRight": "へ", "flickUpLeft": "ぴ", "flickUpRight": "べ" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "character", "primary": "ま", "flickLeft": "み", "flickDown": "む", "flickRight": "め" },
+        { "type": "character", "primary": "や", "flickLeft": "ゆ", "flickRight": "ょ" },
+        { "type": "character", "primary": "ら", "flickLeft": "り", "flickDown": "る", "flickRight": "れ" },
+        { "type": "character", "primary": "わ", "flickLeft": "を", "flickDown": "ん", "flickRight": "ー" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "character", "primary": "、", "shift": "。" },
+        { "type": "character", "primary": "小", "shift": "大" },
+        { "type": "space", "primary": " " },
+        { "type": "backspace", "primary": "delete" }
+      ]
+    }
+  ]
+}
