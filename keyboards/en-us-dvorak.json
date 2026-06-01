@@ -1,0 +1,152 @@
+{
+  "id": "en-us-dvorak",
+  "name": "English (US) Dvorak",
+  "language": "en",
+  "languageName": "English",
+  "version": "1.0.0",
+  "author": "OpenWorld",
+  "layoutType": "custom",
+  "inputMode": "direct",
+  "rows": [
+    {
+      "keys": [
+        { "type": "character", "primary": "'", "shift": "\"" },
+        { "type": "character", "primary": ",", "shift": "<" },
+        { "type": "character", "primary": ".", "shift": ">" },
+        { "type": "character", "primary": "p", "shift": "P" },
+        { "type": "character", "primary": "y", "shift": "Y" },
+        { "type": "character", "primary": "f", "shift": "F" },
+        { "type": "character", "primary": "g", "shift": "G" },
+        { "type": "character", "primary": "c", "shift": "C" },
+        { "type": "character", "primary": "r", "shift": "R" },
+        { "type": "character", "primary": "l", "shift": "L" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "character", "primary": "a", "shift": "A" },
+        { "type": "character", "primary": "o", "shift": "O" },
+        { "type": "character", "primary": "e", "shift": "E" },
+        { "type": "character", "primary": "u", "shift": "U" },
+        { "type": "character", "primary": "i", "shift": "I" },
+        { "type": "character", "primary": "d", "shift": "D" },
+        { "type": "character", "primary": "h", "shift": "H" },
+        { "type": "character", "primary": "t", "shift": "T" },
+        { "type": "character", "primary": "n", "shift": "N" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "character", "primary": ";", "shift": ":" },
+        { "type": "character", "primary": "q", "shift": "Q" },
+        { "type": "character", "primary": "j", "shift": "J" },
+        { "type": "character", "primary": "k", "shift": "K" },
+        { "type": "character", "primary": "x", "shift": "X" },
+        { "type": "character", "primary": "b", "shift": "B" },
+        { "type": "character", "primary": "m", "shift": "M" },
+        { "type": "character", "primary": "w", "shift": "W" },
+        { "type": "character", "primary": "v", "shift": "V" },
+        { "type": "backspace", "primary": "delete" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "space", "primary": " " }
+      ]
+    }
+  ],
+  "numberLayer": [
+    {
+      "keys": [
+        { "type": "character", "primary": "1" },
+        { "type": "character", "primary": "2" },
+        { "type": "character", "primary": "3" },
+        { "type": "character", "primary": "4" },
+        { "type": "character", "primary": "5" },
+        { "type": "character", "primary": "6" },
+        { "type": "character", "primary": "7" },
+        { "type": "character", "primary": "8" },
+        { "type": "character", "primary": "9" },
+        { "type": "character", "primary": "0" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "character", "primary": "-" },
+        { "type": "character", "primary": "/" },
+        { "type": "character", "primary": ":" },
+        { "type": "character", "primary": ";" },
+        { "type": "character", "primary": "(" },
+        { "type": "character", "primary": ")" },
+        { "type": "character", "primary": "$" },
+        { "type": "character", "primary": "&" },
+        { "type": "character", "primary": "@" },
+        { "type": "character", "primary": "\"" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "symbols", "primary": "#+=" },
+        { "type": "character", "primary": "." },
+        { "type": "character", "primary": "," },
+        { "type": "character", "primary": "?" },
+        { "type": "character", "primary": "!" },
+        { "type": "character", "primary": "'" },
+        { "type": "backspace", "primary": "delete" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "letters", "primary": "ABC" },
+        { "type": "space", "primary": " " }
+      ]
+    }
+  ],
+  "symbolLayer": [
+    {
+      "keys": [
+        { "type": "character", "primary": "[" },
+        { "type": "character", "primary": "]" },
+        { "type": "character", "primary": "{" },
+        { "type": "character", "primary": "}" },
+        { "type": "character", "primary": "#" },
+        { "type": "character", "primary": "%" },
+        { "type": "character", "primary": "^" },
+        { "type": "character", "primary": "*" },
+        { "type": "character", "primary": "+" },
+        { "type": "character", "primary": "=" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "character", "primary": "_" },
+        { "type": "character", "primary": "\\" },
+        { "type": "character", "primary": "|" },
+        { "type": "character", "primary": "~" },
+        { "type": "character", "primary": "<" },
+        { "type": "character", "primary": ">" },
+        { "type": "character", "primary": "€" },
+        { "type": "character", "primary": "£" },
+        { "type": "character", "primary": "¥" },
+        { "type": "character", "primary": "•" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "numbers", "primary": "123" },
+        { "type": "character", "primary": "." },
+        { "type": "character", "primary": "," },
+        { "type": "character", "primary": "?" },
+        { "type": "character", "primary": "!" },
+        { "type": "character", "primary": "'" },
+        { "type": "backspace", "primary": "delete" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "letters", "primary": "ABC" },
+        { "type": "space", "primary": " " }
+      ]
+    }
+  ]
+}

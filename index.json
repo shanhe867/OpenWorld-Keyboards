@@ -1,0 +1,140 @@
+{
+  "name": "OpenWorld Keyboards",
+  "version": "1.0.0",
+  "description": "Keyboard layouts for OpenWorld translation keyboard.",
+  "baseURL": "https://raw.githubusercontent.com/YOUR_USERNAME/OpenWorld-Keyboards/main",
+  "keyboards": [
+    {
+      "id": "en-us-qwerty",
+      "name": "English (US) QWERTY",
+      "language": "en",
+      "languageName": "English",
+      "version": "1.0.0",
+      "author": "OpenWorld",
+      "layoutType": "qwerty",
+      "inputMode": "direct",
+      "downloadURL": "keyboards/en-us-qwerty.json",
+      "installSize": 2048
+    },
+    {
+      "id": "en-us-dvorak",
+      "name": "English (US) Dvorak",
+      "language": "en",
+      "languageName": "English",
+      "version": "1.0.0",
+      "author": "OpenWorld",
+      "layoutType": "custom",
+      "inputMode": "direct",
+      "downloadURL": "keyboards/en-us-dvorak.json",
+      "installSize": 2048
+    },
+    {
+      "id": "en-us-colemak",
+      "name": "English (US) Colemak",
+      "language": "en",
+      "languageName": "English",
+      "version": "1.0.0",
+      "author": "OpenWorld",
+      "layoutType": "custom",
+      "inputMode": "direct",
+      "downloadURL": "keyboards/en-us-colemak.json",
+      "installSize": 2048
+    },
+    {
+      "id": "zh-cn-full",
+      "name": "中文 · 全键盘",
+      "language": "zh",
+      "languageName": "简体中文",
+      "version": "1.0.0",
+      "author": "OpenWorld",
+      "layoutType": "qwerty",
+      "inputMode": "pinyin",
+      "downloadURL": "keyboards/zh-cn-full.json",
+      "installSize": 2048
+    },
+    {
+      "id": "zh-cn-9grid",
+      "name": "中文 · 九宫格",
+      "language": "zh",
+      "languageName": "简体中文",
+      "version": "1.0.0",
+      "author": "OpenWorld",
+      "layoutType": "nineGrid",
+      "inputMode": "t9Pinyin",
+      "downloadURL": "keyboards/zh-cn-9grid.json",
+      "installSize": 2048
+    },
+    {
+      "id": "fr-azerty",
+      "name": "Français AZERTY",
+      "language": "fr",
+      "languageName": "Français",
+      "version": "1.0.0",
+      "author": "OpenWorld",
+      "layoutType": "azerty",
+      "inputMode": "direct",
+      "downloadURL": "keyboards/fr-azerty.json",
+      "installSize": 2048
+    },
+    {
+      "id": "de-qwertz",
+      "name": "Deutsch QWERTZ",
+      "language": "de",
+      "languageName": "Deutsch",
+      "version": "1.0.0",
+      "author": "OpenWorld",
+      "layoutType": "qwertz",
+      "inputMode": "direct",
+      "downloadURL": "keyboards/de-qwertz.json",
+      "installSize": 2048
+    },
+    {
+      "id": "es-qwerty",
+      "name": "Español QWERTY",
+      "language": "es",
+      "languageName": "Español",
+      "version": "1.0.0",
+      "author": "OpenWorld",
+      "layoutType": "qwerty",
+      "inputMode": "direct",
+      "downloadURL": "keyboards/es-qwerty.json",
+      "installSize": 2048
+    },
+    {
+      "id": "ja-kana",
+      "name": "日本語 · かな入力",
+      "language": "ja",
+      "languageName": "日本語",
+      "version": "1.0.0",
+      "author": "OpenWorld",
+      "layoutType": "flick",
+      "inputMode": "kana",
+      "downloadURL": "keyboards/ja-kana.json",
+      "installSize": 2048
+    },
+    {
+      "id": "ko-dubeolsik",
+      "name": "한국어 · 두벌식",
+      "language": "ko",
+      "languageName": "한국어",
+      "version": "1.0.0",
+      "author": "OpenWorld",
+      "layoutType": "qwerty",
+      "inputMode": "hangul",
+      "downloadURL": "keyboards/ko-dubeolsik.json",
+      "installSize": 2048
+    },
+    {
+      "id": "ar-standard",
+      "name": "العربية · قياسي",
+      "language": "ar",
+      "languageName": "العربية",
+      "version": "1.0.0",
+      "author": "OpenWorld",
+      "layoutType": "custom",
+      "inputMode": "direct",
+      "downloadURL": "keyboards/ar-standard.json",
+      "installSize": 2048
+    }
+  ]
+}
